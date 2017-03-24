@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb5e93d-5f6b-499c-9efa-3d508dbb02ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FinalModel.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Model5.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pca_model_vis.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model3.ipynb" afterPath="$PROJECT_DIR$/Model3.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalModel.ipynb" afterPath="$PROJECT_DIR$/FinalModel.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model4.ipynb" afterPath="$PROJECT_DIR$/Model4.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model5.ipynb" afterPath="$PROJECT_DIR$/Model5.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PCA_1.ipynb" afterPath="$PROJECT_DIR$/PCA_1.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pca_result2.csv" afterPath="$PROJECT_DIR$/pca_result2.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +22,30 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="FinalModel.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FinalModel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
+              <selected id="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_model_vis.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pca_model_vis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
               <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PCA_1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCA_1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -34,16 +54,16 @@
         <entry file="file://$PROJECT_DIR$/Model4.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Model5.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Model5.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Model5.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -71,17 +91,18 @@
         <option value="$PROJECT_DIR$/Model2.py" />
         <option value="$PROJECT_DIR$/Model4.py" />
         <option value="$PROJECT_DIR$/PCA_1.ipynb" />
-        <option value="$USER_HOME$/PycharmProjects/AdvancedFinance/deepLearning0310.ipynb" />
-        <option value="$PROJECT_DIR$/FinalModel.ipynb" />
+        <option value="$PROJECT_DIR$/../../AdvancedFinance/deepLearning0310.ipynb" />
         <option value="$PROJECT_DIR$/Model4.ipynb" />
         <option value="$PROJECT_DIR$/Model5.ipynb" />
+        <option value="$PROJECT_DIR$/pca_model_vis.ipynb" />
+        <option value="$PROJECT_DIR$/FinalModel.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,7 +138,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,17 +357,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="831" extended-state="6" />
+    <frame x="0" y="23" width="2048" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5017267" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32746956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32746956" sideWeight="0.4982733" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32657418" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258786" sideWeight="0.4982733" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -373,6 +394,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FinalModel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalModel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PCA_1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -530,20 +593,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/AdvancedFinance/NeuralNetwork_0225.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/DataMining/clustering.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AdvancedFinance/NeuralNetwork_0225.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../../DataMining/clustering.ipynb" />
     <entry file="file://$PROJECT_DIR$/Model3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -559,17 +610,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Model2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="84" column="117" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="86" column="112" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AdvancedFinance/deepLearning0310.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Model4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NCAA_Tourney_2002-2016.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="84" column="117" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
@@ -580,47 +654,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/AdvancedFinance/deepLearning0310.ipynb">
+    <entry file="file://$PROJECT_DIR$/Model5.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalModel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NCAA_Tourney_2002-2016.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model4.ipynb">
+    <entry file="file://$PROJECT_DIR$/pca_model_vis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model5.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
